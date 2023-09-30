@@ -1,0 +1,13 @@
+Sun Oct 01 2023 0:59:28 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ 
+Invalid `prisma.course.create()` invocation:
+
+{
+  data: {
+    title: "programming",
+    code: "C111",
+    credits: "5"
+             ~~~
+  }
+}
+
+Argument `credits`: Invalid value provided. Expected Int, provided String.
