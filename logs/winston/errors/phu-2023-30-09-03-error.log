@@ -1,0 +1,15 @@
+Sat Sep 30 2023 3:2:44 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ You are not authorized
+Sat Sep 30 2023 3:3:4 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "title"
+    ],
+    "message": "Title is required"
+  }
+]
+Sat Sep 30 2023 3:3:37 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ Cannot read properties of undefined (reading 'insertIntoDB')
+Sat Sep 30 2023 3:22:49 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ You are not authorized

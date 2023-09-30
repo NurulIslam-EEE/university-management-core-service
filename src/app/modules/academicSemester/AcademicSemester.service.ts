@@ -2,6 +2,7 @@ import { AcademicSemester, Prisma } from '@prisma/client';
 import { paginationHelpers } from '../../../helpers/paginationHelper';
 import { IGenericResponse } from '../../../interfaces/common';
 import { IPaginationOptions } from '../../../interfaces/pagination';
+
 import prisma from '../../../shared/prisma';
 import { IAcademicSemeterFilterRequest } from './academicSemester.interface';
 import { AcademicSemesterSearchAbleFields } from './academicSemeter.contants';

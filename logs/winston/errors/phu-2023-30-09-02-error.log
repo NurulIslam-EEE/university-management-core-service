@@ -1,0 +1,223 @@
+Sat Sep 30 2023 2:0:40 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ 
+Invalid `prisma.student.create()` invocation:
+
+{
+  data: {
+    studentId: "23010001",
+    firstName: "Nurul",
+    lastName: "Islam",
+    middleName: "",
+    profileImg: "100.png",
+    ~~~~~~~~~~
+    email: "nurnurul.islam02310@gmail.com",
+    contactNo: "01819061106",
+    gender: "male",
+    bloodGroup: "A+",
+    academicSemesterId: "c6b4f0cc-8a32-4681-b0b6-a96dc4120ee4",
+    academicDepartmentId: "c6b4f0cc-8a32-4681-b0b6-a96dc4120ee4",
+    academicFacultyId: "c6b4f0cc-8a32-4681-b0b6-a96dc4120ee4",
+?   id?: String,
+?   profileImage?: String | Null,
+?   createdAt?: DateTime,
+?   updatedAt?: DateTime
+  },
+  include: {
+    academicFaculty: true,
+    academicDepartment: true,
+    academicSemester: true
+  }
+}
+
+Unknown argument `profileImg`. Did you mean `profileImage`? Available options are listed in green.
+Sat Sep 30 2023 2:0:56 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ 
+Invalid `prisma.student.create()` invocation:
+
+{
+  data: {
+    studentId: "23010001",
+    firstName: "Nurul",
+    lastName: "Islam",
+    middleName: "",
+    profileImg: "100.png",
+    ~~~~~~~~~~
+    email: "nurnurul.islam02310@gmail.com",
+    contactNo: "01819061106",
+    gender: "male",
+    bloodGroup: "A+",
+    academicSemesterId: "c6b4f0cc-8a32-4681-b0b6-a96dc4120ee4",
+    academicDepartmentId: "c6b4f0cc-8a32-4681-b0b6-a96dc4120ee4",
+    academicFacultyId: "c6b4f0cc-8a32-4681-b0b6-a96dc4120ee4",
+?   id?: String,
+?   profileImage?: String | Null,
+?   createdAt?: DateTime,
+?   updatedAt?: DateTime
+  },
+  include: {
+    academicFaculty: true,
+    academicDepartment: true,
+    academicSemester: true
+  }
+}
+
+Unknown argument `profileImg`. Did you mean `profileImage`? Available options are listed in green.
+Sat Sep 30 2023 2:2:45 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ 
+Invalid `prisma.student.create()` invocation:
+
+{
+  data: {
+    studentId: "23010001",
+    firstName: "Nurul",
+    lastName: "Tanvir",
+    middleName: "Isalm",
+    profileImg: "100.png",
+    ~~~~~~~~~~
+    email: "nurnurul.islam02310@gmail.com",
+    contactNo: "01819061106",
+    gender: "male",
+    bloodGroup: "A+",
+    academicSemesterId: "c6b4f0cc-8a32-4681-b0b6-a96dc4120ee4",
+    academicDepartmentId: "c6b4f0cc-8a32-4681-b0b6-a96dc4120ee4",
+    academicFacultyId: "c6b4f0cc-8a32-4681-b0b6-a96dc4120ee4",
+?   id?: String,
+?   profileImage?: String | Null,
+?   createdAt?: DateTime,
+?   updatedAt?: DateTime
+  },
+  include: {
+    academicFaculty: true,
+    academicDepartment: true,
+    academicSemester: true
+  }
+}
+
+Unknown argument `profileImg`. Did you mean `profileImage`? Available options are listed in green.
+Sat Sep 30 2023 2:3:6 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ 
+Invalid `prisma.student.create()` invocation:
+
+{
+  data: {
+    studentId: "23010002",
+    firstName: "Nurul",
+    lastName: "Tanvir",
+    middleName: "Isalm",
+    profileImg: "100.png",
+    ~~~~~~~~~~
+    email: "nurnurul.islam02310@gmail.com",
+    contactNo: "01819061106",
+    gender: "male",
+    bloodGroup: "A+",
+    academicSemesterId: "c6b4f0cc-8a32-4681-b0b6-a96dc4120ee4",
+    academicDepartmentId: "c6b4f0cc-8a32-4681-b0b6-a96dc4120ee4",
+    academicFacultyId: "c6b4f0cc-8a32-4681-b0b6-a96dc4120ee4",
+?   id?: String,
+?   profileImage?: String | Null,
+?   createdAt?: DateTime,
+?   updatedAt?: DateTime
+  },
+  include: {
+    academicFaculty: true,
+    academicDepartment: true,
+    academicSemester: true
+  }
+}
+
+Unknown argument `profileImg`. Did you mean `profileImage`? Available options are listed in green.
+Sat Sep 30 2023 2:3:21 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ 
+Invalid `prisma.student.create()` invocation:
+
+{
+  data: {
+    studentId: "230100003",
+    firstName: "Nurul",
+    lastName: "Tanvir",
+    middleName: "Isalm",
+    profileImg: "100.png",
+    ~~~~~~~~~~
+    email: "nurnurul.islam02310@gmail.com",
+    contactNo: "01819061106",
+    gender: "male",
+    bloodGroup: "A+",
+    academicSemesterId: "c6b4f0cc-8a32-4681-b0b6-a96dc4120ee4",
+    academicDepartmentId: "c6b4f0cc-8a32-4681-b0b6-a96dc4120ee4",
+    academicFacultyId: "c6b4f0cc-8a32-4681-b0b6-a96dc4120ee4",
+?   id?: String,
+?   profileImage?: String | Null,
+?   createdAt?: DateTime,
+?   updatedAt?: DateTime
+  },
+  include: {
+    academicFaculty: true,
+    academicDepartment: true,
+    academicSemester: true
+  }
+}
+
+Unknown argument `profileImg`. Did you mean `profileImage`? Available options are listed in green.
+Sat Sep 30 2023 2:3:36 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ 
+Invalid `prisma.student.create()` invocation:
+
+{
+  data: {
+    studentId: "230100002",
+    firstName: "Nurul",
+    lastName: "Tanvir",
+    middleName: "Isalm",
+    profileImg: "100.png",
+    ~~~~~~~~~~
+    email: "nurnurul.islam02310@gmail.com",
+    contactNo: "01819061106",
+    gender: "male",
+    bloodGroup: "A+",
+    academicSemesterId: "c6b4f0cc-8a32-4681-b0b6-a96dc4120ee4",
+    academicDepartmentId: "c6b4f0cc-8a32-4681-b0b6-a96dc4120ee4",
+    academicFacultyId: "c6b4f0cc-8a32-4681-b0b6-a96dc4120ee4",
+?   id?: String,
+?   profileImage?: String | Null,
+?   createdAt?: DateTime,
+?   updatedAt?: DateTime
+  },
+  include: {
+    academicFaculty: true,
+    academicDepartment: true,
+    academicSemester: true
+  }
+}
+
+Unknown argument `profileImg`. Did you mean `profileImage`? Available options are listed in green.
+Sat Sep 30 2023 2:9:21 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ 
+Invalid `prisma.student.create()` invocation:
+
+
+Foreign key constraint failed on the field: `students_academicDepartmentId_fkey (index)`
+Sat Sep 30 2023 2:19:40 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ 
+Invalid `prisma.student.create()` invocation:
+
+
+Foreign key constraint failed on the field: `students_academicDepartmentId_fkey (index)`
+Sat Sep 30 2023 2:21:54 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "title"
+    ],
+    "message": "Title is required"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "academicFacultyId"
+    ],
+    "message": "Academic faculty id is required"
+  }
+]
+Sat Sep 30 2023 2:22:5 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ You are not authorized
+Sat Sep 30 2023 2:45:42 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ You are not authorized
+Sat Sep 30 2023 2:45:56 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ You are not authorized
+Sat Sep 30 2023 2:45:59 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ You are not authorized
+Sat Sep 30 2023 2:46:26 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ You are not authorized

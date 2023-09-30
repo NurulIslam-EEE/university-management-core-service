@@ -1,0 +1,170 @@
+Sat Sep 30 2023 1:52:37 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ 
+Invalid `prisma.student.create()` invocation:
+
+{
+  data: {
++   studentId: String
+  },
+  include: {
+    academicFaculty: true,
+    academicDepartment: true,
+    academicSemester: true
+  }
+}
+
+Argument `studentId` is missing.
+Sat Sep 30 2023 1:55:33 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ 
+Invalid `prisma.student.create()` invocation:
+
+{
+  data: {
+    studentId: "23010001",
+    firstName: "",
+    lastName: "",
+    middleName: "",
+    profileImg: "",
+    ~~~~~~~~~~
+    email: "",
+    contactNo: "",
+    gender: "",
+    bloodGroup: "",
+    academicSemesterId: "",
+    academicDepartmentId: "",
+    academicFacultyId: "",
+?   id?: String,
+?   profileImage?: String | Null,
+?   createdAt?: DateTime,
+?   updatedAt?: DateTime
+  },
+  include: {
+    academicFaculty: true,
+    academicDepartment: true,
+    academicSemester: true
+  }
+}
+
+Unknown argument `profileImg`. Did you mean `profileImage`? Available options are listed in green.
+Sat Sep 30 2023 1:56:9 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ 
+Invalid `prisma.student.create()` invocation:
+
+{
+  data: {
+    studentId: "23010001",
+    firstName: "Nurul",
+    lastName: "Islam",
+    middleName: "",
+    profileImg: "100.png",
+    ~~~~~~~~~~
+    email: "nurnurul.islam02310@gmail.com",
+    contactNo: "01819061106",
+    gender: "male",
+    bloodGroup: "A+",
+    academicSemesterId: "",
+    academicDepartmentId: "",
+    academicFacultyId: "",
+?   id?: String,
+?   profileImage?: String | Null,
+?   createdAt?: DateTime,
+?   updatedAt?: DateTime
+  },
+  include: {
+    academicFaculty: true,
+    academicDepartment: true,
+    academicSemester: true
+  }
+}
+
+Unknown argument `profileImg`. Did you mean `profileImage`? Available options are listed in green.
+Sat Sep 30 2023 1:58:10 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ 
+Invalid `prisma.student.create()` invocation:
+
+{
+  data: {
+    studentId: "23010001",
+    firstName: "Nurul",
+    lastName: "Islam",
+    middleName: "",
+    profileImg: "100.png",
+    ~~~~~~~~~~
+    email: "nurnurul.islam02310@gmail.com",
+    contactNo: "01819061106",
+    gender: "male",
+    bloodGroup: "A+",
+    academicSemesterId: "c6b4f0cc-8a32-4681-b0b6-a96dc4120ee4",
+    academicDepartmentId: "",
+    academicFacultyId: "",
+?   id?: String,
+?   profileImage?: String | Null,
+?   createdAt?: DateTime,
+?   updatedAt?: DateTime
+  },
+  include: {
+    academicFaculty: true,
+    academicDepartment: true,
+    academicSemester: true
+  }
+}
+
+Unknown argument `profileImg`. Did you mean `profileImage`? Available options are listed in green.
+Sat Sep 30 2023 1:58:21 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ 
+Invalid `prisma.student.create()` invocation:
+
+{
+  data: {
+    studentId: "23010001",
+    firstName: "Nurul",
+    lastName: "Islam",
+    middleName: "",
+    profileImg: "100.png",
+    ~~~~~~~~~~
+    email: "nurnurul.islam02310@gmail.com",
+    contactNo: "01819061106",
+    gender: "male",
+    bloodGroup: "A+",
+    academicSemesterId: "c6b4f0cc-8a32-4681-b0b6-a96dc4120ee4",
+    academicDepartmentId: "c6b4f0cc-8a32-4681-b0b6-a96dc4120ee4",
+    academicFacultyId: "c6b4f0cc-8a32-4681-b0b6-a96dc4120ee4",
+?   id?: String,
+?   profileImage?: String | Null,
+?   createdAt?: DateTime,
+?   updatedAt?: DateTime
+  },
+  include: {
+    academicFaculty: true,
+    academicDepartment: true,
+    academicSemester: true
+  }
+}
+
+Unknown argument `profileImg`. Did you mean `profileImage`? Available options are listed in green.
+Sat Sep 30 2023 1:59:57 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ 
+Invalid `prisma.student.create()` invocation:
+
+{
+  data: {
+    studentId: "23010001",
+    firstName: "Nurul",
+    lastName: "Islam",
+    middleName: "",
+    profileImg: "100.png",
+    ~~~~~~~~~~
+    email: "nurnurul.islam02310@gmail.com",
+    contactNo: "01819061106",
+    gender: "male",
+    bloodGroup: "A+",
+    academicSemesterId: "c6b4f0cc-8a32-4681-b0b6-a96dc4120ee4",
+    academicDepartmentId: "c6b4f0cc-8a32-4681-b0b6-a96dc4120ee4",
+    academicFacultyId: "c6b4f0cc-8a32-4681-b0b6-a96dc4120ee4",
+?   id?: String,
+?   profileImage?: String | Null,
+?   createdAt?: DateTime,
+?   updatedAt?: DateTime
+  },
+  include: {
+    academicFaculty: true,
+    academicDepartment: true,
+    academicSemester: true
+  }
+}
+
+Unknown argument `profileImg`. Did you mean `profileImage`? Available options are listed in green.
